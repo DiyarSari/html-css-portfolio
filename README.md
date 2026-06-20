@@ -1,19 +1,19 @@
-# Benim Portfolio Sitesi
+# Portfolio Website
 
-Diyar Sari - Yazılım Mühendisliği Öğrencisi
+Diyar Sari - Software Engineering Student
 
-## İçerik
+## Contents
 
-- Hakkımda
-- Yeteneklerim
-- Eğitim
-- İletişim
+- About Me
+- Skills
+- Education
+- Contact
 
-## Açmak İçin
+## How to Use
 
-`index.html` dosyasını tarayıcıda aç.
+Open `index.html` in your browser.
 
-## Bana Ulaş
+## Get In Touch
 
 📧 diyar@byfood.com  
 🐙 [GitHub](https://github.com/DiyarSari)  
